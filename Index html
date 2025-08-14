@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DJ Portfolio</title>
+</head>
+<body>
+    <h1>DJ ALLYZO 44</h1>
+    <p>DJ | Music Producer</p>
+    <p>Welcome to my portfolio! Here you can find my music, upcoming events, and more.</p>
+
+    <h2>Music</h2>
+    <p>Check out my latest tracks and mixes.</p>
+    
+    <h2>Events</h2>
+    <p>See where I'll be performing next.</p>
+    
+    <h2>0786491403</h2>
+    <p>Get in touch with me for bookings and inquiries.</p>
+    
+    <form>
+        <label for="name">ZO 44</label><br>
+        <input type="text" id="name" name="name"><br>
+        <label for="email">allyjizzo44@gmail.com</label><br>
+        <input type="email" id="email" name="email"><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message"></textarea><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
